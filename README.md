@@ -24,7 +24,7 @@ Built using **PyTorch** and trained on the [Brain Tumor Classification MRI Datas
 
 Always consult with a licensed healthcare professional for any medical concerns or decisions.
 
-#📄 License
+# 📄 License
 MIT License
 
 Copyright (c) 2025 [Your Name]
